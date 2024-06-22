@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Pruthvi
-#### Second Year CSE student
+#### passionate techi...
 ![Second Year CSE](https://i.pinimg.com/736x/e3/2f/c8/e32fc8ba8c7efdd99e01ccb857585d40.jpg)
 
 I am tech enthusiastic and passisonate techie.
