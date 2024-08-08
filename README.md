@@ -4,10 +4,9 @@
 
 I am tech enthusiastic and passisonate techie.
 
-Skills: C/C++/JAVA / JS / HTML / CSS / firebase
+Skills: C/C++/JAVA / JS / HTML / CSS / Tailwind / React.js / MySQL / firebase / 
 
-- 🔭 I’m currently working on DSA 
-- 🌱 I’m currently learning ADVANCE C++ 
+- 🔭 I’m currently working on Frontend Devlopment 
 - 📫 How to reach me: sawantpruthviraj1@gmail.com 
 - 😄 Pronouns: he/him 
 
