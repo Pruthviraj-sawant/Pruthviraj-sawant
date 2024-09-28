@@ -4,9 +4,9 @@
 
 I am tech enthusiastic and passisonate techie.
 
-Skills: C/C++/JAVA / JS / HTML / CSS / Tailwind / React.js / MySQL / firebase / 
+Skills: C/C++/JAVA / JS / HTML / CSS / Tailwind / React.js / MySQL / firebase / Node.js
 
-- 🔭 I’m currently working on Frontend Devlopment 
+- 🔭 I’m currently working on Frontend and Backend Devlopment 
 - 📫 How to reach me: sawantpruthviraj1@gmail.com 
 - 😄 Pronouns: he/him 
 
