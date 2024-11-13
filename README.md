@@ -37,8 +37,7 @@ Skills: C/C++/JAVA / JS / HTML / CSS / Tailwind / React.js / MySQL / firebase / 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthviraj-sawant)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pruthviraj-sawant&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Pruthviraj-sawant/contributions?format=svg&private=false)  
+  
 
 ![GitHub metrics](https://metrics.lecoq.io/Pruthviraj-sawant)  
 
