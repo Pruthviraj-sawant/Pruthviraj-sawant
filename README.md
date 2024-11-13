@@ -6,7 +6,7 @@
 
 I am tech enthusiastic and passisonate techie.
 
-Skills: C/C++/JAVA / JS / HTML / CSS / Tailwind / React.js / MySQL / firebase / Node.js
+Skills: JAVA / Python /  HTML / CSS / JS / Tailwind / React.js / Node.js/ MySQL / MOngoDB / firebase 
 
 - 🔭 I’m currently working on Frontend and Backend Devlopment 
 - 📫 How to reach me: sawantpruthviraj1@gmail.com 
@@ -24,9 +24,9 @@ Skills: C/C++/JAVA / JS / HTML / CSS / Tailwind / React.js / MySQL / firebase / 
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='CSS' width='40' height='40'/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='JavaScript' width='40' height='40'/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' alt='React.js' width='40' height='40'/>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg' alt='Next.js' width='40' height='40'/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg' alt='Next.js' width='40' height='40' style="color:white"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' alt='Node.js' width='40' height='40'/>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' alt='Express.js' width='40' height='40'/>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' alt='Express.js' width='40' height='40' style="color:white"/>
     <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg' alt='Tailwind CSS' width='40' height='40'/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' width='40' height='40'/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt='MySQL' width='40' height='40'/>
