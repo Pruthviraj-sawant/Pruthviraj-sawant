@@ -30,6 +30,7 @@ Skills: JAVA / Python /  HTML / CSS / JS / Tailwind / React.js / Node.js/ MySQL 
     <img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg' alt='Tailwind CSS' width='40' height='40'/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' width='40' height='40'/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' alt='MySQL' width='40' height='40'/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon" width="50">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt='Firebase' width='40' height='40'/>
 </p>
 
