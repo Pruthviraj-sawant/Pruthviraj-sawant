@@ -6,7 +6,7 @@
 
 I am tech enthusiastic and passisonate techie.
 
-Skills: JAVA / Python /  HTML / CSS / JS / Tailwind / React.js / Node.js/ MySQL / MOngoDB / firebase 
+Skills: JAVA / Python /  HTML / CSS / JS / Tailwind / React.js / Node.js / express.js / MySQL / MOngoDB / firebase 
 
 - 🔭 I’m currently working on Frontend and Backend Devlopment 
 - 📫 How to reach me: sawantpruthviraj1@gmail.com 
