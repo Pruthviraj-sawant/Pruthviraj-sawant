@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pruthvi</h1>
 <h3 align="center">I am tech enthusiastic and passisonate techie.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthviraj-sawant&label=Profile%20views&color=0e75b6&style=flat" alt="pruthviraj-sawant" /> </p>
+
 
 - 🔭 I’m currently working on **FUTUREMENTOR_EDUCATIONTECH_WEBSITE**
 
