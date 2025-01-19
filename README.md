@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN AND ALGORITHMS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pruthvirajsawant.vercel.app/](https://portfolio-pruthvirajsawant.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-pruthvirajsawant.vercel.app/](https://portfolio-main-xot1.vercel.app/)
 
 - 📫 How to reach me **sawantpruthviraj1@gmail.com**
 
