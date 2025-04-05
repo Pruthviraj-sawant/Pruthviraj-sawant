@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pruthvi</h1>
-<h3 align="center">I am tech enthusiastic and passisonate techie.</h3>
+<h3 align="center">I am tech enthusiastic , passisonate techie and parttime script kidee</h3>
 
 
 
