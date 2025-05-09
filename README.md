@@ -15,7 +15,7 @@
 - 📫 Reach me at: **sawantpruthviraj1@gmail.com**
 
 
-<p align="right">
+<p align="right" style={margin-top:10px}>
   <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" width="400" />
 </p>
 ---
