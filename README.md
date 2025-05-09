@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="min-width: 200px; vertical-align: top;">
       <h3>🚀 About Me</h3>
       <ul>
         <li>🔭 Currently building: <strong>Sparkels_ui</strong></li>
@@ -14,11 +14,12 @@
         <li>📫 Reach me at: <strong>sawantpruthviraj1@gmail.com</strong></li>
       </ul>
     </td>
-    <td>
-      <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" width="400"/>
+    <td style="width: 50%;">
+      <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" style="max-width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
+
 
 ### 🔗 Connect with Me
 
