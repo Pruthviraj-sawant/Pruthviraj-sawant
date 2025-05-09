@@ -5,21 +5,22 @@
   <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" width="400" />
 </p>
 
----
-<div>
-### 🚀 About Me
-
-- 🔭 Currently building: **Sparkels_ui** 
-- 🌱 Learning: **MERN Stack | DSA & Algorithms**
-- 💼 Portfolio: [Visit My Projects →](https://portfolio-main-xot1.vercel.app/)
-- 📫 Reach me at: **sawantpruthviraj1@gmail.com**
-
-
-<p align="right" style={margin-top:10px}>
-  <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" width="400" />
-</p>
----
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>🔭 Currently building: <strong>Sparkels_ui</strong></li>
+        <li>🌱 Learning: <strong>MERN Stack | DSA & Algorithms</strong></li>
+        <li>💼 Portfolio: <a href="https://portfolio-main-xot1.vercel.app/">Visit My Projects →</a></li>
+        <li>📫 Reach me at: <strong>sawantpruthviraj1@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ### 🔗 Connect with Me
 
