@@ -1,12 +1,15 @@
 
 <h1 align="center">Hey 👋, I'm Pruthvi Sawant</h1>
 <h3 align="center">A tech enthusiast, passionate developer, and curious learner exploring the world of full-stack development</h3>
+<p align="center">
+  <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" width="400" />
+</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building: **FutureMentor – An EdTech Platform**
+- 🔭 Currently building: **Sparkels_ui** 
 - 🌱 Learning: **MERN Stack | DSA & Algorithms**
 - 💼 Portfolio: [Visit My Projects →](https://portfolio-main-xot1.vercel.app/)
 - 📫 Reach me at: **sawantpruthviraj1@gmail.com**
