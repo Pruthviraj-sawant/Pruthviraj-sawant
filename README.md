@@ -14,10 +14,11 @@
 - 💼 Portfolio: [Visit My Projects →](https://portfolio-main-xot1.vercel.app/)
 - 📫 Reach me at: **sawantpruthviraj1@gmail.com**
 
----
+
 <p align="right">
   <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" width="400" />
 </p>
+---
 </div>
 
 ### 🔗 Connect with Me
