@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td style="width: 50%;">
-      <img src="https://media1.tenor.com/m/0OyQ-otXuXMAAAAd/spider-man-harry-osborn.gif" alt="spiderman gif" style="max-width: 100%; height: auto;" />
+      <img src="https://pin.it/1pGUooSyb" alt="spiderman gif" style="max-width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
