@@ -61,6 +61,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviraj-sawant&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthviraj-sawant&show_icons=true&theme=tokyonight&rank_icon=percentile" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-sawant&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Pinned Repo" />
+</p>
+
+<!-- Optional: Use a customized stats card like the one in the image (requires third-party tools like GitHub Readme Stats Card Generator) -->
+
 ---
 
 ### ⚡ Fun Fact
