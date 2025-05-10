@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-sawant&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthviraj-sawant&repo=Sparkels_ui_completeweb&theme=tokyonight" alt="Pinned Repo" />
 </p>
 
 <!-- Optional: Use a customized stats card like the one in the image (requires third-party tools like GitHub Readme Stats Card Generator) -->
