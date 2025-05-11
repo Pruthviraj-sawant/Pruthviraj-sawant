@@ -30,6 +30,9 @@
   <a href="https://medium.com/@Sawantprithviraj" target="blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+  <a href="https://dev.to/pruthvi_sawant29" target="blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
 </p>
 
 ---
