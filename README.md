@@ -1,4 +1,3 @@
-![Spiderman](pruthvicharacter.png)
 
 <h1 align="center">Hey 👋, I'm Pruthvi Sawant</h1>
 <h3 align="center">A tech enthusiast, passionate developer, and curious learner exploring the world of full-stack development</h3>
