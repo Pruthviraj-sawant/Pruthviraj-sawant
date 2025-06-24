@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td style="width: 50%;">
-      <img src="pruthvicharacter.png" alt="spiderman gif" style="max-width: 50%; height: 20%;" />
+      <img src="pruthvicharacter.png" alt="spiderman gif" style="max-width: 50%; height: 20rem;" />
     </td>
   </tr>
 </table>
