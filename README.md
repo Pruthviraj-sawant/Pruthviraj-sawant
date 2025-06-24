@@ -14,9 +14,9 @@
         <li>📫 Reach me at: <strong>sawantpruthviraj1@gmail.com</strong></li>
       </ul>
     </td>
-    <td style="width: 50%;">
+<!--     <td style="width: 50%;">
       <img src="https://media1.tenor.com/m/i23Ik0MwmrQAAAAC/hello-kitty-bow-franco-bow.gif" alt="spiderman gif" style="max-width: 100%; height: auto;" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
