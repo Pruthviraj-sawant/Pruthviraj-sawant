@@ -1,4 +1,5 @@
-![Spiderman](ChatGPT Image Jun 24, 2025, 12_35_23 PM.png)
+![Spiderman](pruthvicharacter.png)
+
 <h1 align="center">Hey 👋, I'm Pruthvi Sawant</h1>
 <h3 align="center">A tech enthusiast, passionate developer, and curious learner exploring the world of full-stack development</h3>
 
@@ -15,7 +16,7 @@
       </ul>
     </td>
     <td style="width: 50%;">
-      <img src="ChatGPT Image Jun 24, 2025, 12_35_23 PM" alt="spiderman gif" style="max-width: 100%; height: auto;" />
+      <img src="pruthvicharacter.png" alt="spiderman gif" style="max-width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
