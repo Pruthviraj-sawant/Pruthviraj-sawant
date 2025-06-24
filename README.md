@@ -14,9 +14,9 @@
         <li>📫 Reach me at: <strong>sawantpruthviraj1@gmail.com</strong></li>
       </ul>
     </td>
-<!--     <td style="width: 50%;">
-      <img src="https://media1.tenor.com/m/i23Ik0MwmrQAAAAC/hello-kitty-bow-franco-bow.gif" alt="spiderman gif" style="max-width: 100%; height: auto;" />
-    </td> -->
+    <td style="width: 50%;">
+      <img src="ChatGPT Image Jun 24, 2025, 12_35_23 PM" alt="spiderman gif" style="max-width: 100%; height: auto;" />
+    </td>
   </tr>
 </table>
 
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://dev.to/pruthvi_sawant29" target="blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    <img src="Ch" alt="Dev.to"/>
   </a>
 </p>
 
