@@ -80,7 +80,7 @@
 
 ### ⚡ Fun Fact
 
-> I may call myself a part-time script kiddie, but I strive every day to become a full-time problem solver 😄
+> I strive every day to become a full-time problem solver 😄
 
 ---
 
