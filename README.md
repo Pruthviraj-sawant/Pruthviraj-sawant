@@ -9,7 +9,7 @@
       <h3>🚀 About Me</h3>
       <ul>
         <li>🔭 Currently building: <strong>Sparkels_ui</strong></li>
-        <li>🌱 Learning: <strong>MERN Stack | DSA & Algorithms</strong></li>
+        <li>🌱 <strong>MERN Stack | DSA & Algorithms | Java Developer</strong></li>
         <li>💼 Portfolio: <a href="https://portfolio-main-xot1.vercel.app/">Visit My Projects →</a></li>
         <li>📫 Reach me at: <strong>sawantpruthviraj1@gmail.com</strong></li>
       </ul>
